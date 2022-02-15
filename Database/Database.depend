@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563724739 source:c:\users\biswa\desktop\database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1563724951 source:c:\users\biswa\desktop\database\resources.rc
+
