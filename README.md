@@ -30,7 +30,10 @@ This is a student database management system created using file handling concept
 
 
 ## Folder Structure :point_down:
-
+```bash
+Student Database System
+        └── SCHOOL.c
+```
     
 ## Screenshots :point_down: 
 
@@ -38,17 +41,17 @@ This is a student database management system created using file handling concept
 
 <a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s2.png"><img src="s2.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s3.png"><img src="s3.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s4.png"><img src="s4.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s5.png"><img src="s5.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s6.png"><img src="s6.png" width="800" height= "400"></a>
 
-<a href="s1.png"><img src="s1.png" width="800" height= "400"></a>
+<a href="s7.png"><img src="s7.png" width="800" height= "400"></a>
 
 
 </div>
